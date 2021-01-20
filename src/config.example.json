@@ -1,0 +1,8 @@
+{
+    "host": "0.0.0.0",
+    "port": 9009,
+    "clusters": 2,
+    "endpoints": [
+        "http://127.0.0.1:9001/raw"
+    ]
+}
