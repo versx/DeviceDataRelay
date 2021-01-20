@@ -6,4 +6,5 @@ Middleware to relay raw data found by [RDM](https://github.com/realdevicemap/rea
 1. Clone repository `git clone https://github.com/versx/DeviceDataRelay && cd DeviceDataRelay`  
 1. Copy config `cp src/config.example.json src/config.json`  
 1. Fill out config, specify endpoints that should receive device data, number of clusters, etc.  
+1. Install dependencies `npm install`  
 1. Start `npm start`  
